@@ -1,0 +1,13 @@
+# Files
+file.pdf
+file2.pdf
+out.txt
+out2.txt
+*.png
+
+# Folders
+/venv/
+ 
+# Auto-generated file
+*.pyc
+**/__pycache__/ 
